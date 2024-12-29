@@ -16,7 +16,6 @@ This project demonstrates how **Query Expansion (QE)**, powered by Large Languag
 - **Document Retrieval**: Retrieve relevant text chunks from a vector database using cosine similarity.
 - **Visualization**: Use UMAP for visualizing document-query relationships in 2D.
 
----
 
 ## Results
 
