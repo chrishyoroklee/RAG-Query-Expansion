@@ -19,7 +19,7 @@ This project demonstrates how **Query Expansion (QE)**, powered by Large Languag
 
 ## Results
 
-The experimental results demonstrate a consistent improvement in cosine similarity scores with Query Expansion (QE). For detailed results and visualizations, refer to the results/ directory or the project report.
+The experimental results demonstrate a consistent improvement in cosine similarity scores with Query Expansion (QE). For detailed results and visualizations, refer to the project report.
 
 
 
